@@ -1,7 +1,3 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=eshevlyakova&theme=darkhub&no-bg=true&no-frame=true)
-
----
-
 # Hi there, I'm [Evgenia](https://eshevlyakova.ru/) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="54">
 ### Student, web developer from Russia 🇷🇺
 
