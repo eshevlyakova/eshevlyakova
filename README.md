@@ -1,4 +1,4 @@
-# Hi there, I'm [Evgenia](https://eshevlyakova.ru/) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="54">
+# Hi there, I'm [Evgenia](https://eshevlyakova.ru/) 
 ### Student, web developer from Russia 🇷🇺
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,4 +21,9 @@
 <a href="https://github.com/eshevlyakova/eshevlyakova">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshevlyakova&show_icons=true&count_private=true&include_all_commits=true&hide=stars&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=00000000&hide_border=true" />
 </a>
+
+---
+Bug fixes, one minute after release:
+
+<img src="https://i.ucrazy.ru/files/pics/2014.05/jizn_programista_15.gif" width="300">
 
