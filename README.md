@@ -25,5 +25,5 @@
 ---
 Bug fixes, one minute after release:
 
-<img src="https://i.ucrazy.ru/files/pics/2014.05/jizn_programista_15.gif" width="300">
+<img src="https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif" width="300">
 
