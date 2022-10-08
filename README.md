@@ -15,9 +15,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<div style='background-color: green'>
-  <p>Тег. Внутри тега markdown **игнорируется**.</p>
-</div>
 
 [![codewars](https://www.codewars.com/users/eshevlyakova/badges/large)](https://www.codewars.com/users/eshevlyakova)
 
