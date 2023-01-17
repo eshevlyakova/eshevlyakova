@@ -10,17 +10,9 @@ Welcome to my GitHub page. I am Evgenia Shevlyakova and now I am a frontend deve
 
 ---
 
-<img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://github.com/eshevlyakova/eshevlyakova/blob/main/img/cat.gif"/>
-
-<div>
-<br/>
-<br/>
-
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
-
-<div align='center'>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
@@ -34,13 +26,8 @@ Welcome to my GitHub page. I am Evgenia Shevlyakova and now I am a frontend deve
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  
-</div>
-<br/>
-<br/>
-<br/>
-<br/>
-</div>
+
+---
 
 [![codewars](https://www.codewars.com/users/eshevlyakova/badges/large)](https://www.codewars.com/users/eshevlyakova)
 
