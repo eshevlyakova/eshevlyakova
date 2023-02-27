@@ -4,7 +4,7 @@
   :wave:
 </h1>
 
-Welcome to my GitHub page. I am Evgenia Shevlyakova and now I am a frontend developer, I'm constantly learning something new, I have been programming for almost more 2 years. My resume: https://career.habr.com/evgenia-shevlyakova
+Welcome to my GitHub page. I am Evgenia Shevlyakova and now I am a frontend developer, I'm constantly learning something new, I have been programming for more 2 years. My resume: https://career.habr.com/evgenia-shevlyakova
 
 <img src="https://gpvc.arturio.dev/eshevlyakova" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 
