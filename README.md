@@ -1,4 +1,4 @@
-Hi 👋 My name is Evgenia Shevlyakova
+Hi 👋 My name is Evgeniya Shevlyakova
 ====================================
 
 Frontend Developer, Student
