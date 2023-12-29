@@ -12,7 +12,6 @@ Frontend Developer, Student
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-4B275F?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-CC342D?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/React_Native-CC0000?style=for-the-badge&logo=react&logoColor=white)
                     
 ### Socials
                   
