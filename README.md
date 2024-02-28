@@ -3,7 +3,7 @@ Frontend Developer, Student
 
 *   🌍  I'm based in Elektrostal, Moscow region
 *   ✉️  You can contact me at [euschevlyakova@yandex.ru](mailto:euschevlyakova@yandex.ru)
-*   🧠  I'm a frontend developer last 2+ years
+*   🧠  I'm a frontend developer last 3+ years
 *   🤝  I'm open to collaborating on Education projects, IT schools, Open Source resources
 *   ⚡  I also love to travel, I hope to visit most countries in the world
 
